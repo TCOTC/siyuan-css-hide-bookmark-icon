@@ -1,8 +1,8 @@
 {
-  "name": "siyuan-css-hide-doc-tree-icon",
+  "name": "siyuan-css-hide-bookmark-icon",
   "author": "TCOTC",
-  "url": "https://github.com/TCOTC/siyuan-css-hide-doc-tree-icon",
-  "version": "0.0.9",
+  "url": "https://github.com/TCOTC/siyuan-css-hide-bookmark-icon",
+  "version": "0.1.0",
   "backends": [
     "all"
   ],
@@ -10,12 +10,12 @@
     "all"
   ],
   "displayName": {
-    "default": "Doc Tree hide icon",
-    "zh_CN": "文档树隐藏图标"
+    "default": "Bookmark hide icon",
+    "zh_CN": "书签隐藏图标"
   },
   "description": {
-    "default": "Hide the icon in front of the document in the document tree",
-    "zh_CN": "在文档树中隐藏文档前的图标"
+    "default": "Hide the icon in front of the bookmark in the bookmark",
+    "zh_CN": "在书签中隐藏书签前的图标"
   },
   "readme": {
     "default": "README.md",
@@ -30,13 +30,13 @@
     ]
   },
   "keywords": [
-    "文档",
-    "文档树",
+    "书签",
+    "书签树",
     "隐藏",
     "图标",
     "隐藏图标",
-    "doc",
-    "document",
+    "mark",
+    "bookmark",
     "hide",
     "icon"
   ]
