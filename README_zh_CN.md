@@ -4,7 +4,7 @@
 
 ### CSS
 
-```
+```css
 /* 在书签中隐藏书签前的图标 CSS片段 https://github.com/TCOTC/siyuan-css-hide-bookmark-icon */
 span.b3-list-item__graphic {
 	display: none;
